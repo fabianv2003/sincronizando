@@ -9,5 +9,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="google.cl">
     </head>
+    <script>
+      let ejemplo=12;
+    
+    </script>
 
 </html>
