@@ -11,7 +11,7 @@
     </head>
     <script>
       let ejemplo=12;
-    
+      var datos = 25;
     </script>
 
 </html>
