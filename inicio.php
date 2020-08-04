@@ -12,6 +12,8 @@
     <script>
       let ejemplo=12;
       var datos = 25;
+
+      holaaaaa
     </script>
 
 </html>
